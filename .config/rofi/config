@@ -1,0 +1,5 @@
+#rofi.font: Iosevka 16
+#rofi.theme: ~/.config/rofi/Adapta-Nokto.rasi
+rofi.theme: ~/.config/rofi/Monokai.rasi
+#rofi.separator-style: none
+#rofi.columns: 1
