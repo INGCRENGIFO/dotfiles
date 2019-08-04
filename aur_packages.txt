@@ -1,0 +1,4 @@
+polybar
+dbeaver-ce
+ttf-ms-fonts
+ttf-unifont 

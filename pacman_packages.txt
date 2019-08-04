@@ -1,0 +1,20 @@
+unzip
+openssh
+flameshot
+alsa-utils
+arandr
+noto-fonts
+ttf-dejavu
+ttf-liberation
+ttf-bitstream-vera
+mesa
+intel-ucode
+feh
+compton
+xautolock
+lxappearance
+
+# work
+python-virtualenv
+wkhtmltopdf
+inotify-tools
